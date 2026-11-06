@@ -1,0 +1,17 @@
+# Large or machine-specific: recreate with the setup steps in README.md
+.venv/
+models/
+node_modules/
+tools/
+__pycache__/
+.claude/
+
+# Generated media: rebuilt by the pipeline from each project's spec.json
+Exports/
+Raw footage/
+projects/*/*
+!projects/*/spec.json
+!projects/*/spec.refined.json
+
+# Downloaded reference Shorts belong to their creators: do not publish
+References/

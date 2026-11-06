@@ -1,0 +1,24 @@
+{
+  "name": "ai-video-editor",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "remotion:studio": "remotion studio remotion/index.jsx",
+    "remotion:render": "remotion render remotion/index.jsx HelloTitle Exports/HelloTitle.mp4"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "private": true,
+  "dependencies": {
+    "@remotion/cli": "^4.0.540",
+    "hyperframes": "^0.9.3",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "remotion": "^4.0.540"
+  },
+  "overrides": {
+    "undici": "7.30.1"
+  }
+}

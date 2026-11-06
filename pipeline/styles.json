@@ -1,0 +1,46 @@
+{
+  "body-explained": {
+    "look_short": "Pixar-style 3D animated film still, cinematic lighting, glossy detailed organic textures",
+    "look": "3D animated feature film still, cute cartoon organ mascots with big expressive eyes, glossy wet organic textures, warm volumetric rim light, shallow depth of field, rich reds and pinks",
+    "setting": "warm glowing red and pink soft tissue background with bokeh",
+    "motion_style": "lively expressive character acting, natural talking mouth and eye movement, small body gestures, smooth cinematic camera movement",
+    "negative": "human, person, man, woman, humanoid, skeleton, skull, bones, ribs, nude, torso, muscles, creepy, zombie, grey skin, text, letters, words, watermark, logo, blurry, lowres, deformed, extra limbs, gore, blood, horror, surgery, plain studio backdrop",
+    "header_style": "top",
+    "accent": "#FFD84D",
+    "music_mood": "playful",
+    "caption_mode": "word"
+  },
+  "mindset-15": {
+    "look_short": "minimalist 3D render, glowing blue figures, dark navy stage",
+    "look": "minimalist 3D render, glowing electric blue figures on a dark navy floor, soft volumetric light, clean negative space, cinematic",
+    "setting": "dark empty stage with a subtle blue horizon glow",
+    "motion_style": "simple clear motion, steady camera, satisfying rhythm",
+    "negative": "text, letters, words, watermark, logo, cluttered, busy background, realistic faces, blurry, lowres, deformed",
+    "header_style": "pov",
+    "accent": "#3DA9FF",
+    "music_mood": "uplifting",
+    "caption_mode": "group"
+  },
+  "marriage": {
+    "look_short": "warm 3D animated film still, cosy, golden-hour light",
+    "look": "warm 3D animated movie still, cosy stylised couple characters, soft golden-hour lighting, gentle pastel palette, shallow depth of field",
+    "setting": "cosy home interior",
+    "motion_style": "tender natural motion, small gestures, stable faces",
+    "negative": "text, letters, words, watermark, logo, nudity, suggestive, blurry, lowres, deformed hands, extra fingers, extra limbs",
+    "header_style": "top",
+    "accent": "#FF8FA3",
+    "music_mood": "warm",
+    "caption_mode": "group"
+  },
+  "curious-world": {
+    "look_short": "vivid 3D educational illustration, bright colours, studio light",
+    "look": "vivid 3D educational illustration, clean stylised shapes, bright saturated colours, soft studio lighting, macro detail",
+    "setting": "clean simple environment that explains one idea",
+    "motion_style": "clear explanatory motion, smooth camera",
+    "negative": "text, letters, words, watermark, logo, blurry, lowres, deformed, cluttered",
+    "header_style": "top",
+    "accent": "#7CF29A",
+    "music_mood": "curious",
+    "caption_mode": "group"
+  }
+}

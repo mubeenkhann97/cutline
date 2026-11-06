@@ -1,0 +1,123 @@
+{
+  "slug": "brain-needs-water",
+  "series": "body-explained",
+  "format": "story",
+  "title": "Your Brain When You Forget to Drink Water",
+  "description": "A headache, feeling dizzy or light-headed and feeling tired can all be symptoms of dehydration. The NHS suggests aiming for 6 to 8 cups or glasses of fluid a day, and drinking enough during the day that your pee is a pale colour. Water is a good choice; do not have drinks that are high in sugar too often.\n\nEducational only. Not medical advice. See the NHS dehydration page for when to get help.",
+  "hashtags": [
+    "#Shorts",
+    "#Hydration",
+    "#BrainHealth",
+    "#HealthTips"
+  ],
+  "disclaimer": "Educational only. Not medical advice.",
+  "sources": [
+    "https://www.nhs.uk/conditions/dehydration/",
+    "https://www.nhs.uk/live-well/eat-well/food-guidelines-and-food-labels/water-drinks-nutrition/"
+  ],
+  "characters": {
+    "brain": {
+      "name": "brain",
+      "voice": "bf_emma",
+      "look": "cute cartoon brain mascot, soft pink wrinkly brain-shaped body, big cartoon eyes and mouth, tiny arms and legs"
+    },
+    "droplet": {
+      "name": "water droplet",
+      "voice": "af_bella",
+      "look": "cute cartoon water droplet mascot, clear glossy sparkling blue teardrop-shaped body, big cartoon eyes and smile, tiny arms"
+    },
+    "can": {
+      "name": "fizzy drink can",
+      "voice": "am_fenrir",
+      "look": "cute cartoon fizzy drink can mascot, plain shiny lime-green aluminium can body, ring-pull tab on top of its head, cartoon face, tiny arms"
+    }
+  },
+  "music": "auto",
+  "voice": {
+    "enabled": true,
+    "speed": 1.05
+  },
+  "scenes": [
+    {
+      "id": "s1",
+      "seconds": 2,
+      "speaker": "brain",
+      "camera": "slow push in",
+      "image": "tired droopy brain mascot with heavy half-closed eyes holding its head, dull pale greyish colour, foggy haze",
+      "motion": "the brain slumps and rubs its head as its eyelids droop",
+      "narration": "Ugh. Headache. Dizzy. So tired."
+    },
+    {
+      "id": "s2",
+      "seconds": 2,
+      "speaker": "can",
+      "camera": "static",
+      "image": "smug lime-green fizzy drink can mascot leaning forward with a sly grin, bubbles fizzing out of its open top, close-up",
+      "motion": "the can wiggles its eyebrows and fizzes, beckoning with a tiny arm",
+      "narration": "Tired? Grab a sugary fizzy drink!"
+    },
+    {
+      "id": "s3",
+      "seconds": 2,
+      "speaker": "droplet",
+      "camera": "slow pull out",
+      "image": "sparkling blue water droplet mascot landing with a splash and a raised eyebrow, cool blue light rays",
+      "motion": "the droplet lands with a bounce, ripples spread, and it raises an eyebrow",
+      "narration": "Hold on. When did you last drink water?"
+    },
+    {
+      "id": "s4",
+      "seconds": 2,
+      "speaker": "brain",
+      "camera": "static",
+      "image": "embarrassed brain mascot scratching its head with a sheepish grin, dull pale greyish colour",
+      "motion": "the brain scratches its head and looks away sheepishly",
+      "narration": "Um... yesterday?"
+    },
+    {
+      "id": "s5",
+      "seconds": 2,
+      "speaker": "droplet",
+      "camera": "slow push in",
+      "image": "water droplet mascot explaining with one hand raised, glowing blue sparkles around it, close-up",
+      "motion": "the droplet gestures with its hand while explaining, sparkles drifting",
+      "narration": "A headache, feeling dizzy and feeling tired can all be signs of dehydration."
+    },
+    {
+      "id": "s6",
+      "seconds": 2,
+      "speaker": "can",
+      "camera": "slow push in",
+      "image": "nervous lime-green fizzy drink can mascot sweating, its bubbles going flat, close-up",
+      "motion": "the can sweats and shrinks back as its bubbles fizzle out",
+      "narration": "But sugary drinks count... right?"
+    },
+    {
+      "id": "s7",
+      "seconds": 2,
+      "speaker": "droplet",
+      "camera": "static",
+      "image": "confident water droplet mascot with arms crossed beside a row of sparkling glasses of water",
+      "motion": "the droplet nods confidently as the glasses of water sparkle",
+      "narration": "Not too often. Water's a great choice. Aim for 6 to 8 glasses of fluid a day."
+    },
+    {
+      "id": "s8",
+      "seconds": 2,
+      "speaker": "droplet",
+      "camera": "slow push in",
+      "image": "water droplet mascot winking with a thumbs up, close-up, sparkling blue light",
+      "motion": "the droplet winks and gives a thumbs up",
+      "narration": "Pro tip: drink enough to keep your pee pale."
+    },
+    {
+      "id": "s9",
+      "seconds": 2,
+      "speaker": "brain",
+      "camera": "slow pull out",
+      "image": "bright glowing healthy pink brain mascot happily sipping water through a straw from a glass, sparkling eyes",
+      "motion": "the brain sips water happily and perks up as sparkles appear around it",
+      "narration": "Sip by sip, all day. Got it!"
+    }
+  ]
+}

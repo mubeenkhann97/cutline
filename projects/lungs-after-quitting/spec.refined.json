@@ -1,0 +1,177 @@
+{
+  "slug": "lungs-after-quitting",
+  "series": "body-explained",
+  "format": "story",
+  "title": "What Your Lungs Do After Your Last Cigarette",
+  "description": "The day you stop smoking, your body starts clearing out the toxins. Within days or weeks you start to breathe more easily, your circulation improves, and after 1 year your risk of heart attack halves compared to a smoker's.\n\nEducational only. Not medical advice. The NHS offers free support to quit smoking.",
+  "hashtags": [
+    "#Shorts",
+    "#QuitSmoking",
+    "#LungHealth",
+    "#HealthTips"
+  ],
+  "disclaimer": "Educational only. Not medical advice.",
+  "sources": [
+    "https://www.nhs.uk/better-health/quit-smoking/why-quit-smoking/benefits-of-quitting-smoking/"
+  ],
+  "characters": {
+    "lungs": {
+      "name": "lungs",
+      "voice": "af_heart",
+      "look": "cute cartoon lungs mascot shaped like two puffy lung lobes joined by a windpipe on top, big cartoon eyes and mouth, tiny arms"
+    },
+    "cigarette": {
+      "name": "cigarette",
+      "voice": "bm_george",
+      "look": "cute cartoon cigarette mascot standing upright, orange filter at the bottom as its feet, white paper body, glowing red ember tip on top of its head with smoke rising from it, cartoon face, tiny arms"
+    },
+    "heart": {
+      "name": "heart",
+      "voice": "am_puck",
+      "look": "cute cartoon heart mascot, shiny red heart-shaped body, big cartoon eyes and smile, tiny arms"
+    }
+  },
+  "music": "auto",
+  "voice": {
+    "enabled": true,
+    "speed": 1.05
+  },
+  "scenes": [
+    {
+      "id": "s1",
+      "seconds": 2.12,
+      "speaker": "lungs",
+      "camera": "slow push in",
+      "image": "grey dirty sooty lungs mascot, close-up of its surprised face, smoky haze",
+      "motion": "the lungs give a small cough and look around, surprised",
+      "narration": "Wait. No smoke today?",
+      "image_prompt": "Pixar-style 3D animated film still, cinematic lighting, glossy detailed organic textures, cute cartoon lungs mascot shaped like two puffy lung lobes joined by a windpipe on top, big cartoon eyes and mouth, tiny arms, grey dirty sooty lungs mascot, close-up of its surprised face, smoky haze, warm glowing red and pink soft tissue background with bokeh",
+      "image_prompt_long": "Pixar-style 3D animated film still, cinematic lighting, glossy detailed organic textures, cute cartoon lungs mascot shaped like two puffy lung lobes joined by a windpipe on top, big cartoon eyes and mouth, tiny arms, grey dirty sooty lungs mascot, close-up of its surprised face, smoky haze, warm glowing red and pink soft tissue background with bokeh, vertical composition, 3D animated feature film still, cute cartoon organ mascots with big expressive eyes, glossy wet organic textures, warm volumetric rim light, shallow depth of field, rich reds and pinks",
+      "negative_prompt": "human, person, man, woman, humanoid, skeleton, skull, bones, ribs, nude, torso, muscles, creepy, zombie, grey skin, text, letters, words, watermark, logo, blurry, lowres, deformed, extra limbs, gore, blood, horror, surgery, plain studio backdrop",
+      "video_prompt": "cute cartoon lungs mascot shaped like two puffy lung lobes joined by a windpipe on top, big cartoon eyes and mouth, tiny arms. the lungs give a small cough and look around, surprised. The lungs is talking, mouth moving as it speaks with expressive eyes and eyebrows. grey dirty sooty lungs mascot, close-up of its surprised face, smoky haze. camera slowly pushes in, gentle and subtle. The character stays centred and fully in frame the whole time. lively expressive character acting, natural talking mouth and eye movement, small body gestures, smooth cinematic camera movement. 3D animated feature film still, cute cartoon organ mascots with big expressive eyes, glossy wet organic textures, warm volumetric rim light, shallow depth of field, rich reds and pinks.",
+      "keyframe": "keyframes/s1_2.png",
+      "clip_seed": 186665844
+    },
+    {
+      "id": "s2",
+      "seconds": 2.65,
+      "speaker": "cigarette",
+      "camera": "static",
+      "image": "smug cigarette mascot leaning back with arms crossed, smoke curling from its tip, close-up",
+      "motion": "the cigarette shrugs and smirks while smoke curls upward",
+      "narration": "Relax. You'll be back for me.",
+      "image_prompt": "Pixar-style 3D animated film still, cinematic lighting, glossy detailed organic textures, cute cartoon cigarette mascot standing upright, orange filter at the bottom as its feet, white paper body, glowing red ember tip on top of its head with smoke rising from it, cartoon face, tiny arms, smug cigarette mascot leaning back with arms crossed, smoke curling from its tip,, vertical composition",
+      "image_prompt_long": "Pixar-style 3D animated film still, cinematic lighting, glossy detailed organic textures, cute cartoon cigarette mascot standing upright, orange filter at the bottom as its feet, white paper body, glowing red ember tip on top of its head with smoke rising from it, cartoon face, tiny arms, smug cigarette mascot leaning back with arms crossed, smoke curling from its tip, close-up, warm glowing red and pink soft tissue background with bokeh, vertical composition, 3D animated feature film still, cute cartoon organ mascots with big expressive eyes, glossy wet organic textures, warm volumetric rim light, shallow depth of field, rich reds and pinks",
+      "negative_prompt": "human, person, man, woman, humanoid, skeleton, skull, bones, ribs, nude, torso, muscles, creepy, zombie, grey skin, text, letters, words, watermark, logo, blurry, lowres, deformed, extra limbs, gore, blood, horror, surgery, plain studio backdrop",
+      "video_prompt": "cute cartoon cigarette mascot standing upright, orange filter at the bottom as its feet, white paper body, glowing red ember tip on top of its head with smoke rising from it, cartoon face, tiny arms. the cigarette shrugs and smirks while smoke curls upward. The cigarette is talking, mouth moving as it speaks with expressive eyes and eyebrows. smug cigarette mascot leaning back with arms crossed, smoke curling from its tip, close-up. locked-off static camera. The character stays centred and fully in frame the whole time. lively expressive character acting, natural talking mouth and eye movement, small body gestures, smooth cinematic camera movement. 3D animated feature film still, cute cartoon organ mascots with big expressive eyes, glossy wet organic textures, warm volumetric rim light, shallow depth of field, rich reds and pinks.",
+      "keyframe": "keyframes/s2_0.png",
+      "clip_seed": 1807208820
+    },
+    {
+      "id": "s3",
+      "seconds": 4.35,
+      "speaker": "lungs",
+      "camera": "slow pull out",
+      "image": "grey lungs mascot breathing out with a determined face, dark soot specks floating away into warm light",
+      "motion": "dark soot particles float out and away from the lungs as they take a determined breath",
+      "narration": "Nope. The day you stop, your body starts clearing the toxins.",
+      "image_prompt": "Pixar-style 3D animated film still, cinematic lighting, glossy detailed organic textures, cute cartoon lungs mascot shaped like two puffy lung lobes joined by a windpipe on top, big cartoon eyes and mouth, tiny arms, grey lungs mascot breathing out with a determined face, dark soot specks floating away into warm light, vertical composition",
+      "image_prompt_long": "Pixar-style 3D animated film still, cinematic lighting, glossy detailed organic textures, cute cartoon lungs mascot shaped like two puffy lung lobes joined by a windpipe on top, big cartoon eyes and mouth, tiny arms, grey lungs mascot breathing out with a determined face, dark soot specks floating away into warm light, warm glowing red and pink soft tissue background with bokeh, vertical composition, 3D animated feature film still, cute cartoon organ mascots with big expressive eyes, glossy wet organic textures, warm volumetric rim light, shallow depth of field, rich reds and pinks",
+      "negative_prompt": "human, person, man, woman, humanoid, skeleton, skull, bones, ribs, nude, torso, muscles, creepy, zombie, grey skin, text, letters, words, watermark, logo, blurry, lowres, deformed, extra limbs, gore, blood, horror, surgery, plain studio backdrop",
+      "video_prompt": "cute cartoon lungs mascot shaped like two puffy lung lobes joined by a windpipe on top, big cartoon eyes and mouth, tiny arms. dark soot particles float out and away from the lungs as they take a determined breath. The lungs is talking, mouth moving as it speaks with expressive eyes and eyebrows. grey lungs mascot breathing out with a determined face, dark soot specks floating away into warm light. camera slowly pulls back, gentle and subtle. The character stays centred and fully in frame the whole time. lively expressive character acting, natural talking mouth and eye movement, small body gestures, smooth cinematic camera movement. 3D animated feature film still, cute cartoon organ mascots with big expressive eyes, glossy wet organic textures, warm volumetric rim light, shallow depth of field, rich reds and pinks.",
+      "keyframe": "keyframes/s3_2.png",
+      "clip_seed": 2131626007
+    },
+    {
+      "id": "s4",
+      "seconds": 3.53,
+      "speaker": "lungs",
+      "camera": "slow push in",
+      "image": "lungs turning healthier and pinker, inflating with a deep happy breath, warm golden light",
+      "motion": "the lungs slowly inflate with a deep breath and smile with relief",
+      "narration": "Within days or weeks, I breathe more easily.",
+      "image_prompt": "Pixar-style 3D animated film still, cinematic lighting, glossy detailed organic textures, cute cartoon lungs mascot shaped like two puffy lung lobes joined by a windpipe on top, big cartoon eyes and mouth, tiny arms, lungs turning healthier and pinker, inflating with a deep happy breath, warm golden light, warm glowing red and pink soft tissue background with bokeh",
+      "image_prompt_long": "Pixar-style 3D animated film still, cinematic lighting, glossy detailed organic textures, cute cartoon lungs mascot shaped like two puffy lung lobes joined by a windpipe on top, big cartoon eyes and mouth, tiny arms, lungs turning healthier and pinker, inflating with a deep happy breath, warm golden light, warm glowing red and pink soft tissue background with bokeh, vertical composition, 3D animated feature film still, cute cartoon organ mascots with big expressive eyes, glossy wet organic textures, warm volumetric rim light, shallow depth of field, rich reds and pinks",
+      "negative_prompt": "human, person, man, woman, humanoid, skeleton, skull, bones, ribs, nude, torso, muscles, creepy, zombie, grey skin, text, letters, words, watermark, logo, blurry, lowres, deformed, extra limbs, gore, blood, horror, surgery, plain studio backdrop",
+      "video_prompt": "cute cartoon lungs mascot shaped like two puffy lung lobes joined by a windpipe on top, big cartoon eyes and mouth, tiny arms. the lungs slowly inflate with a deep breath and smile with relief. The lungs is talking, mouth moving as it speaks with expressive eyes and eyebrows. lungs turning healthier and pinker, inflating with a deep happy breath, warm golden light. camera slowly pushes in, gentle and subtle. The character stays centred and fully in frame the whole time. lively expressive character acting, natural talking mouth and eye movement, small body gestures, smooth cinematic camera movement. 3D animated feature film still, cute cartoon organ mascots with big expressive eyes, glossy wet organic textures, warm volumetric rim light, shallow depth of field, rich reds and pinks.",
+      "keyframe": "keyframes/s4_1.png",
+      "clip_seed": 572043491
+    },
+    {
+      "id": "s5",
+      "seconds": 2.25,
+      "speaker": "heart",
+      "camera": "slow orbit",
+      "image": "cheerful red heart pumping strongly, glowing blood vessels around it, bright warm light",
+      "motion": "the heart beats strongly and the vessels pulse with light, it gives a thumbs up",
+      "narration": "And I get better blood flow!",
+      "image_prompt": "Pixar-style 3D animated film still, cinematic lighting, glossy detailed organic textures, cute cartoon heart mascot, shiny red heart-shaped body, big cartoon eyes and smile, tiny arms, cheerful red heart pumping strongly, glowing blood vessels around it, bright warm light, warm glowing red and pink soft tissue background with bokeh, vertical composition",
+      "image_prompt_long": "Pixar-style 3D animated film still, cinematic lighting, glossy detailed organic textures, cute cartoon heart mascot, shiny red heart-shaped body, big cartoon eyes and smile, tiny arms, cheerful red heart pumping strongly, glowing blood vessels around it, bright warm light, warm glowing red and pink soft tissue background with bokeh, vertical composition, 3D animated feature film still, cute cartoon organ mascots with big expressive eyes, glossy wet organic textures, warm volumetric rim light, shallow depth of field, rich reds and pinks",
+      "negative_prompt": "human, person, man, woman, humanoid, skeleton, skull, bones, ribs, nude, torso, muscles, creepy, zombie, grey skin, text, letters, words, watermark, logo, blurry, lowres, deformed, extra limbs, gore, blood, horror, surgery, plain studio backdrop",
+      "video_prompt": "cute cartoon heart mascot, shiny red heart-shaped body, big cartoon eyes and smile, tiny arms. the heart beats strongly and the vessels pulse with light, it gives a thumbs up. The heart is talking, mouth moving as it speaks with expressive eyes and eyebrows. cheerful red heart pumping strongly, glowing blood vessels around it, bright warm light. camera slowly orbits around the subject, gentle and subtle. The character stays centred and fully in frame the whole time. lively expressive character acting, natural talking mouth and eye movement, small body gestures, smooth cinematic camera movement. 3D animated feature film still, cute cartoon organ mascots with big expressive eyes, glossy wet organic textures, warm volumetric rim light, shallow depth of field, rich reds and pinks.",
+      "keyframe": "keyframes/s5_0.png",
+      "clip_seed": 1904226982
+    },
+    {
+      "id": "s6",
+      "seconds": 2.58,
+      "speaker": "cigarette",
+      "camera": "slow push in",
+      "image": "nervous cigarette shrinking back, its glowing tip fading, sweat drops, close-up",
+      "motion": "the cigarette shrinks back nervously and its glowing tip dims",
+      "narration": "Wait. You're getting stronger?",
+      "image_prompt": "Pixar-style 3D animated film still, cinematic lighting, glossy detailed organic textures, cute cartoon cigarette mascot standing upright, orange filter at the bottom as its feet, white paper body, glowing red ember tip on top of its head with smoke rising from it, cartoon face, tiny arms, nervous cigarette shrinking back, its glowing tip fading, sweat drops, close-up",
+      "image_prompt_long": "Pixar-style 3D animated film still, cinematic lighting, glossy detailed organic textures, cute cartoon cigarette mascot standing upright, orange filter at the bottom as its feet, white paper body, glowing red ember tip on top of its head with smoke rising from it, cartoon face, tiny arms, nervous cigarette shrinking back, its glowing tip fading, sweat drops, close-up, warm glowing red and pink soft tissue background with bokeh, vertical composition, 3D animated feature film still, cute cartoon organ mascots with big expressive eyes, glossy wet organic textures, warm volumetric rim light, shallow depth of field, rich reds and pinks",
+      "negative_prompt": "human, person, man, woman, humanoid, skeleton, skull, bones, ribs, nude, torso, muscles, creepy, zombie, grey skin, text, letters, words, watermark, logo, blurry, lowres, deformed, extra limbs, gore, blood, horror, surgery, plain studio backdrop",
+      "video_prompt": "cute cartoon cigarette mascot standing upright, orange filter at the bottom as its feet, white paper body, glowing red ember tip on top of its head with smoke rising from it, cartoon face, tiny arms. the cigarette shrinks back nervously and its glowing tip dims. The cigarette is talking, mouth moving as it speaks with expressive eyes and eyebrows. nervous cigarette shrinking back, its glowing tip fading, sweat drops, close-up. camera slowly pushes in, gentle and subtle. The character stays centred and fully in frame the whole time. lively expressive character acting, natural talking mouth and eye movement, small body gestures, smooth cinematic camera movement. 3D animated feature film still, cute cartoon organ mascots with big expressive eyes, glossy wet organic textures, warm volumetric rim light, shallow depth of field, rich reds and pinks.",
+      "keyframe": "keyframes/s6_1.png",
+      "clip_seed": 213112478
+    },
+    {
+      "id": "s7",
+      "seconds": 3.03,
+      "speaker": "heart",
+      "camera": "static",
+      "image": "proud red heart with arms crossed and a confident smile, softly glowing",
+      "motion": "the heart nods proudly and crosses its arms",
+      "narration": "After one year, my heart attack risk halves.",
+      "image_prompt": "Pixar-style 3D animated film still, cinematic lighting, glossy detailed organic textures, cute cartoon heart mascot, shiny red heart-shaped body, big cartoon eyes and smile, tiny arms, proud red heart with arms crossed and a confident smile, softly glowing, warm glowing red and pink soft tissue background with bokeh, vertical composition",
+      "image_prompt_long": "Pixar-style 3D animated film still, cinematic lighting, glossy detailed organic textures, cute cartoon heart mascot, shiny red heart-shaped body, big cartoon eyes and smile, tiny arms, proud red heart with arms crossed and a confident smile, softly glowing, warm glowing red and pink soft tissue background with bokeh, vertical composition, 3D animated feature film still, cute cartoon organ mascots with big expressive eyes, glossy wet organic textures, warm volumetric rim light, shallow depth of field, rich reds and pinks",
+      "negative_prompt": "human, person, man, woman, humanoid, skeleton, skull, bones, ribs, nude, torso, muscles, creepy, zombie, grey skin, text, letters, words, watermark, logo, blurry, lowres, deformed, extra limbs, gore, blood, horror, surgery, plain studio backdrop",
+      "video_prompt": "cute cartoon heart mascot, shiny red heart-shaped body, big cartoon eyes and smile, tiny arms. the heart nods proudly and crosses its arms. The heart is talking, mouth moving as it speaks with expressive eyes and eyebrows. proud red heart with arms crossed and a confident smile, softly glowing. locked-off static camera. The character stays centred and fully in frame the whole time. lively expressive character acting, natural talking mouth and eye movement, small body gestures, smooth cinematic camera movement. 3D animated feature film still, cute cartoon organ mascots with big expressive eyes, glossy wet organic textures, warm volumetric rim light, shallow depth of field, rich reds and pinks.",
+      "keyframe": "keyframes/s7_0.png",
+      "clip_seed": 413536689
+    },
+    {
+      "id": "s8",
+      "seconds": 5.27,
+      "speaker": "lungs",
+      "camera": "slow push in",
+      "image": "bright healthy pink lungs with a confident smile looking at the viewer, clean glowing background",
+      "motion": "the lungs breathe in deeply and point at the viewer",
+      "narration": "And after ten years, your risk of dying from lung cancer is half a smoker's.",
+      "image_prompt": "Pixar-style 3D animated film still, cinematic lighting, glossy detailed organic textures, cute cartoon lungs mascot shaped like two puffy lung lobes joined by a windpipe on top, big cartoon eyes and mouth, tiny arms, bright healthy pink lungs with a confident smile looking at the viewer, clean glowing background, warm glowing red and pink soft tissue background with bokeh, vertical composition",
+      "image_prompt_long": "Pixar-style 3D animated film still, cinematic lighting, glossy detailed organic textures, cute cartoon lungs mascot shaped like two puffy lung lobes joined by a windpipe on top, big cartoon eyes and mouth, tiny arms, bright healthy pink lungs with a confident smile looking at the viewer, clean glowing background, warm glowing red and pink soft tissue background with bokeh, vertical composition, 3D animated feature film still, cute cartoon organ mascots with big expressive eyes, glossy wet organic textures, warm volumetric rim light, shallow depth of field, rich reds and pinks",
+      "negative_prompt": "human, person, man, woman, humanoid, skeleton, skull, bones, ribs, nude, torso, muscles, creepy, zombie, grey skin, text, letters, words, watermark, logo, blurry, lowres, deformed, extra limbs, gore, blood, horror, surgery, plain studio backdrop",
+      "video_prompt": "cute cartoon lungs mascot shaped like two puffy lung lobes joined by a windpipe on top, big cartoon eyes and mouth, tiny arms. the lungs breathe in deeply and point at the viewer. The lungs is talking, mouth moving as it speaks with expressive eyes and eyebrows. bright healthy pink lungs with a confident smile looking at the viewer, clean glowing background. camera slowly pushes in, gentle and subtle. The character stays centred and fully in frame the whole time. lively expressive character acting, natural talking mouth and eye movement, small body gestures, smooth cinematic camera movement. 3D animated feature film still, cute cartoon organ mascots with big expressive eyes, glossy wet organic textures, warm volumetric rim light, shallow depth of field, rich reds and pinks.",
+      "keyframe": "keyframes/s8_1.png",
+      "clip_seed": 1729028376
+    },
+    {
+      "id": "s9",
+      "seconds": 2.43,
+      "speaker": "lungs",
+      "camera": "slow pull out",
+      "image": "bright healthy pink lungs mascot cheering with both arms up, grey ash crumbling on the floor",
+      "motion": "the lungs cheer and bounce happily while grey ash crumbles away",
+      "narration": "Every smoke-free day counts.",
+      "image_prompt": "Pixar-style 3D animated film still, cinematic lighting, glossy detailed organic textures, cute cartoon lungs mascot shaped like two puffy lung lobes joined by a windpipe on top, big cartoon eyes and mouth, tiny arms, bright healthy pink lungs mascot cheering with both arms up, grey ash crumbling on the floor, warm glowing red and pink soft tissue background with bokeh",
+      "image_prompt_long": "Pixar-style 3D animated film still, cinematic lighting, glossy detailed organic textures, cute cartoon lungs mascot shaped like two puffy lung lobes joined by a windpipe on top, big cartoon eyes and mouth, tiny arms, bright healthy pink lungs mascot cheering with both arms up, grey ash crumbling on the floor, warm glowing red and pink soft tissue background with bokeh, vertical composition, 3D animated feature film still, cute cartoon organ mascots with big expressive eyes, glossy wet organic textures, warm volumetric rim light, shallow depth of field, rich reds and pinks",
+      "negative_prompt": "human, person, man, woman, humanoid, skeleton, skull, bones, ribs, nude, torso, muscles, creepy, zombie, grey skin, text, letters, words, watermark, logo, blurry, lowres, deformed, extra limbs, gore, blood, horror, surgery, plain studio backdrop",
+      "video_prompt": "cute cartoon lungs mascot shaped like two puffy lung lobes joined by a windpipe on top, big cartoon eyes and mouth, tiny arms. the lungs cheer and bounce happily while grey ash crumbles away. The lungs is talking, mouth moving as it speaks with expressive eyes and eyebrows. bright healthy pink lungs mascot cheering with both arms up, grey ash crumbling on the floor. camera slowly pulls back, gentle and subtle. The character stays centred and fully in frame the whole time. lively expressive character acting, natural talking mouth and eye movement, small body gestures, smooth cinematic camera movement. 3D animated feature film still, cute cartoon organ mascots with big expressive eyes, glossy wet organic textures, warm volumetric rim light, shallow depth of field, rich reds and pinks.",
+      "keyframe": "keyframes/s9_1.png",
+      "clip_seed": 1610572854
+    }
+  ],
+  "refine_report": []
+}

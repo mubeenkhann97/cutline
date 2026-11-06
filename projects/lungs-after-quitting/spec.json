@@ -1,0 +1,122 @@
+{
+  "slug": "lungs-after-quitting",
+  "series": "body-explained",
+  "format": "story",
+  "title": "What Your Lungs Do After Your Last Cigarette",
+  "description": "The day you stop smoking, your body starts clearing out the toxins. Within days or weeks you start to breathe more easily, your circulation improves, and after 1 year your risk of heart attack halves compared to a smoker's.\n\nEducational only. Not medical advice. The NHS offers free support to quit smoking.",
+  "hashtags": [
+    "#Shorts",
+    "#QuitSmoking",
+    "#LungHealth",
+    "#HealthTips"
+  ],
+  "disclaimer": "Educational only. Not medical advice.",
+  "sources": [
+    "https://www.nhs.uk/better-health/quit-smoking/why-quit-smoking/benefits-of-quitting-smoking/"
+  ],
+  "characters": {
+    "lungs": {
+      "name": "lungs",
+      "voice": "af_heart",
+      "look": "cute cartoon lungs mascot shaped like two puffy lung lobes joined by a windpipe on top, big cartoon eyes and mouth, tiny arms"
+    },
+    "cigarette": {
+      "name": "cigarette",
+      "voice": "bm_george",
+      "look": "cute cartoon cigarette mascot standing upright, orange filter at the bottom as its feet, white paper body, glowing red ember tip on top of its head with smoke rising from it, cartoon face, tiny arms"
+    },
+    "heart": {
+      "name": "heart",
+      "voice": "am_puck",
+      "look": "cute cartoon heart mascot, shiny red heart-shaped body, big cartoon eyes and smile, tiny arms"
+    }
+  },
+  "music": "auto",
+  "voice": {
+    "enabled": true,
+    "speed": 1.05
+  },
+  "scenes": [
+    {
+      "id": "s1",
+      "seconds": 2,
+      "speaker": "lungs",
+      "camera": "slow push in",
+      "image": "grey dirty sooty lungs mascot, close-up of its surprised face, smoky haze",
+      "motion": "the lungs give a small cough and look around, surprised",
+      "narration": "Wait. No smoke today?"
+    },
+    {
+      "id": "s2",
+      "seconds": 2,
+      "speaker": "cigarette",
+      "camera": "static",
+      "image": "smug cigarette mascot leaning back with arms crossed, smoke curling from its tip, close-up",
+      "motion": "the cigarette shrugs and smirks while smoke curls upward",
+      "narration": "Relax. You'll be back for me."
+    },
+    {
+      "id": "s3",
+      "seconds": 2,
+      "speaker": "lungs",
+      "camera": "slow pull out",
+      "image": "grey lungs mascot breathing out with a determined face, dark soot specks floating away into warm light",
+      "motion": "dark soot particles float out and away from the lungs as they take a determined breath",
+      "narration": "Nope. The day you stop, your body starts clearing the toxins."
+    },
+    {
+      "id": "s4",
+      "seconds": 2,
+      "speaker": "lungs",
+      "camera": "slow push in",
+      "image": "lungs turning healthier and pinker, inflating with a deep happy breath, warm golden light",
+      "motion": "the lungs slowly inflate with a deep breath and smile with relief",
+      "narration": "Within days or weeks, I breathe more easily."
+    },
+    {
+      "id": "s5",
+      "seconds": 2,
+      "speaker": "heart",
+      "camera": "slow orbit",
+      "image": "cheerful red heart pumping strongly, glowing blood vessels around it, bright warm light",
+      "motion": "the heart beats strongly and the vessels pulse with light, it gives a thumbs up",
+      "narration": "And I get better blood flow!"
+    },
+    {
+      "id": "s6",
+      "seconds": 2,
+      "speaker": "cigarette",
+      "camera": "slow push in",
+      "image": "nervous cigarette shrinking back, its glowing tip fading, sweat drops, close-up",
+      "motion": "the cigarette shrinks back nervously and its glowing tip dims",
+      "narration": "Wait. You're getting stronger?"
+    },
+    {
+      "id": "s7",
+      "seconds": 2,
+      "speaker": "heart",
+      "camera": "static",
+      "image": "proud red heart with arms crossed and a confident smile, softly glowing",
+      "motion": "the heart nods proudly and crosses its arms",
+      "narration": "After one year, my heart attack risk halves."
+    },
+    {
+      "id": "s8",
+      "seconds": 2,
+      "speaker": "lungs",
+      "camera": "slow push in",
+      "image": "bright healthy pink lungs with a confident smile looking at the viewer, clean glowing background",
+      "motion": "the lungs breathe in deeply and point at the viewer",
+      "narration": "And after ten years, your risk of dying from lung cancer is half a smoker's."
+    },
+    {
+      "id": "s9",
+      "seconds": 2,
+      "speaker": "lungs",
+      "camera": "slow pull out",
+      "image": "bright healthy pink lungs mascot cheering with both arms up, grey ash crumbling on the floor",
+      "motion": "the lungs cheer and bounce happily while grey ash crumbles away",
+      "narration": "Every smoke-free day counts."
+    }
+  ]
+}

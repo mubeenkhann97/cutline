@@ -1,0 +1,205 @@
+{
+  "slug": "heart-sitting-all-day",
+  "series": "body-explained",
+  "format": "story",
+  "title": "Your Heart When You Sit All Day",
+  "description": "Many adults spend more than 7 hours a day sitting down. Sitting or lying down for long periods is thought to increase the risk of long-term conditions such as heart disease, stroke and type 2 diabetes, and you can hit your weekly activity target but still be at risk if you spend the rest of the time sitting. The NHS advises adults to reduce time spent sitting or lying down and to break up long periods of not moving with some activity.\n\nEducational only. Not medical advice.",
+  "hashtags": [
+    "#Shorts",
+    "#SitLess",
+    "#HeartHealth",
+    "#HealthTips"
+  ],
+  "disclaimer": "Educational only. Not medical advice.",
+  "sources": [
+    "https://www.nhs.uk/live-well/exercise/exercise-health-benefits/",
+    "https://www.nhs.uk/live-well/exercise/physical-activity-guidelines-for-adults-aged-19-to-64/"
+  ],
+  "setting": "bright modern home office with a wooden desk and a big window, soft daylight, teal walls and warm wood tones, bokeh",
+  "characters": {
+    "heart": {
+      "name": "heart",
+      "voice": "am_michael",
+      "look": "cute cartoon heart mascot, glossy coral-red smooth rounded valentine-heart-shaped body with no tubes or vessels on top, big cartoon eyes and mouth, tiny arms and legs"
+    },
+    "chair": {
+      "name": "office chair",
+      "voice": "am_fenrir",
+      "look": "cute cartoon office chair mascot, plush charcoal-grey cushioned seat and backrest with a cartoon face on the backrest, padded armrests as its arms, five-wheeled base"
+    },
+    "trainer": {
+      "name": "running shoe",
+      "voice": "af_heart",
+      "look": "cute cartoon running shoe mascot, bright white and teal trainer with a cartoon face on the toe, laces like a tuft of hair, tiny arms"
+    }
+  },
+  "music": "auto",
+  "voice": {
+    "enabled": true,
+    "speed": 1.05
+  },
+  "scenes": [
+    {
+      "id": "s1",
+      "seconds": 3.65,
+      "speaker": "heart",
+      "cast": [
+        "heart",
+        "chair"
+      ],
+      "camera": "slow push in",
+      "image": "tired slumped heart mascot sinking into the plush office chair mascot at a desk with a laptop, droopy half-closed eyes",
+      "motion": "the heart slumps lower in the chair and sighs, eyelids drooping",
+      "narration": "Nine hours at my desk. Not one break.",
+      "image_prompt": "Pixar-style 3D animated film still, cinematic lighting, glossy detailed organic textures, cute cartoon heart mascot, glossy coral-red smooth rounded valentine-heart-shaped body with no tubes or vessels on top, big cartoon eyes and mouth, tiny arms and legs and cute cartoon office chair mascot, plush charcoal-grey cushioned seat and backrest with a cartoon face on the backrest, padded armrests as its arms, five-wheeled base, tired slumped heart mascot sinking into",
+      "image_prompt_long": "Pixar-style 3D animated film still, cinematic lighting, glossy detailed organic textures, cute cartoon heart mascot, glossy coral-red smooth rounded valentine-heart-shaped body with no tubes or vessels on top, big cartoon eyes and mouth, tiny arms and legs and cute cartoon office chair mascot, plush charcoal-grey cushioned seat and backrest with a cartoon face on the backrest, padded armrests as its arms, five-wheeled base, tired slumped heart mascot sinking into the plush office chair mascot at a desk with a laptop, droopy half-closed eyes, bright modern home office with a wooden desk and a big window, soft daylight, teal walls and warm wood tones, bokeh, vertical composition, 3D animated feature film still, cute cartoon organ mascots with big expressive eyes, glossy wet organic textures, warm volumetric rim light, shallow depth of field, rich reds and pinks",
+      "negative_prompt": "human, person, man, woman, humanoid, skeleton, skull, bones, ribs, nude, torso, muscles, creepy, zombie, grey skin, text, letters, words, watermark, logo, blurry, lowres, deformed, extra limbs, gore, blood, horror, surgery, plain studio backdrop",
+      "video_prompt": "cute cartoon heart mascot, glossy coral-red smooth rounded valentine-heart-shaped body with no tubes or vessels on top, big cartoon eyes and mouth, tiny arms and legs and cute cartoon office chair mascot, plush charcoal-grey cushioned seat and backrest with a cartoon face on the backrest, padded armrests as its arms, five-wheeled base. the heart slumps lower in the chair and sighs, eyelids drooping. The heart is talking, mouth moving as it speaks with expressive eyes and eyebrows. tired slumped heart mascot sinking into the plush office chair mascot at a desk with a laptop, droopy half-closed eyes. camera slowly pushes in, gentle and subtle. The characters stay fully in frame the whole time. lively expressive character acting, natural talking mouth and eye movement, small body gestures, smooth cinematic camera movement. 3D animated feature film still, cute cartoon organ mascots with big expressive eyes, glossy wet organic textures, warm volumetric rim light, shallow depth of field, rich reds and pinks.",
+      "keyframe": "keyframes/s1_1.png",
+      "clip_seed": 1171875
+    },
+    {
+      "id": "s2",
+      "seconds": 2.63,
+      "speaker": "chair",
+      "camera": "static",
+      "image": "smug office chair mascot with a sly grin, close-up",
+      "motion": "the chair grins and swivels slightly, its cushion puffing up invitingly",
+      "narration": "Stay seated. You're so comfy here.",
+      "image_prompt": "Pixar-style 3D animated film still, cinematic lighting, glossy detailed organic textures, cute cartoon office chair mascot, plush charcoal-grey cushioned seat and backrest with a cartoon face on the backrest, padded armrests as its arms, five-wheeled base, smug office chair mascot with a sly grin, close-up, vertical composition",
+      "image_prompt_long": "Pixar-style 3D animated film still, cinematic lighting, glossy detailed organic textures, cute cartoon office chair mascot, plush charcoal-grey cushioned seat and backrest with a cartoon face on the backrest, padded armrests as its arms, five-wheeled base, smug office chair mascot with a sly grin, close-up, bright modern home office with a wooden desk and a big window, soft daylight, teal walls and warm wood tones, bokeh, vertical composition, 3D animated feature film still, cute cartoon organ mascots with big expressive eyes, glossy wet organic textures, warm volumetric rim light, shallow depth of field, rich reds and pinks",
+      "negative_prompt": "human, person, man, woman, humanoid, skeleton, skull, bones, ribs, nude, torso, muscles, creepy, zombie, grey skin, text, letters, words, watermark, logo, blurry, lowres, deformed, extra limbs, gore, blood, horror, surgery, plain studio backdrop",
+      "video_prompt": "cute cartoon office chair mascot, plush charcoal-grey cushioned seat and backrest with a cartoon face on the backrest, padded armrests as its arms, five-wheeled base. the chair grins and swivels slightly, its cushion puffing up invitingly. The office chair is talking, mouth moving as it speaks with expressive eyes and eyebrows. smug office chair mascot with a sly grin, close-up. locked-off static camera. The character stays centred and fully in frame the whole time. lively expressive character acting, natural talking mouth and eye movement, small body gestures, smooth cinematic camera movement. 3D animated feature film still, cute cartoon organ mascots with big expressive eyes, glossy wet organic textures, warm volumetric rim light, shallow depth of field, rich reds and pinks.",
+      "keyframe": "keyframes/s2_2.png",
+      "clip_seed": 274829054
+    },
+    {
+      "id": "s3",
+      "seconds": 2.53,
+      "speaker": "trainer",
+      "camera": "slow pull out",
+      "image": "energetic running shoe mascot hopping onto the desk with a raised eyebrow",
+      "motion": "the shoe lands with a bounce and raises an eyebrow, laces bouncing",
+      "narration": "Hey! When did you last stand up?",
+      "image_prompt": "Pixar-style 3D animated film still, cinematic lighting, glossy detailed organic textures, cute cartoon running shoe mascot, bright white and teal trainer with a cartoon face on the toe, laces like a tuft of hair, tiny arms, energetic running shoe mascot hopping onto the desk with a raised eyebrow, vertical composition",
+      "image_prompt_long": "Pixar-style 3D animated film still, cinematic lighting, glossy detailed organic textures, cute cartoon running shoe mascot, bright white and teal trainer with a cartoon face on the toe, laces like a tuft of hair, tiny arms, energetic running shoe mascot hopping onto the desk with a raised eyebrow, bright modern home office with a wooden desk and a big window, soft daylight, teal walls and warm wood tones, bokeh, vertical composition, 3D animated feature film still, cute cartoon organ mascots with big expressive eyes, glossy wet organic textures, warm volumetric rim light, shallow depth of field, rich reds and pinks",
+      "negative_prompt": "human, person, man, woman, humanoid, skeleton, skull, bones, ribs, nude, torso, muscles, creepy, zombie, grey skin, text, letters, words, watermark, logo, blurry, lowres, deformed, extra limbs, gore, blood, horror, surgery, plain studio backdrop",
+      "video_prompt": "cute cartoon running shoe mascot, bright white and teal trainer with a cartoon face on the toe, laces like a tuft of hair, tiny arms. the shoe lands with a bounce and raises an eyebrow, laces bouncing. The running shoe is talking, mouth moving as it speaks with expressive eyes and eyebrows. energetic running shoe mascot hopping onto the desk with a raised eyebrow. camera slowly pulls back, gentle and subtle. The character stays centred and fully in frame the whole time. lively expressive character acting, natural talking mouth and eye movement, small body gestures, smooth cinematic camera movement. 3D animated feature film still, cute cartoon organ mascots with big expressive eyes, glossy wet organic textures, warm volumetric rim light, shallow depth of field, rich reds and pinks.",
+      "keyframe": "keyframes/s3_2.png",
+      "clip_seed": 1106466471
+    },
+    {
+      "id": "s4",
+      "seconds": 2.08,
+      "speaker": "heart",
+      "camera": "static",
+      "image": "embarrassed heart mascot sitting in the office chair, scratching its head with a sheepish grin",
+      "motion": "the heart scratches its head and looks away sheepishly",
+      "narration": "Um... lunch?",
+      "image_prompt": "Pixar-style 3D animated film still, cinematic lighting, glossy detailed organic textures, cute cartoon heart mascot, glossy coral-red smooth rounded valentine-heart-shaped body with no tubes or vessels on top, big cartoon eyes and mouth, tiny arms and legs, embarrassed heart mascot sitting in the office chair, scratching its head with a sheepish grin, vertical composition",
+      "image_prompt_long": "Pixar-style 3D animated film still, cinematic lighting, glossy detailed organic textures, cute cartoon heart mascot, glossy coral-red smooth rounded valentine-heart-shaped body with no tubes or vessels on top, big cartoon eyes and mouth, tiny arms and legs, embarrassed heart mascot sitting in the office chair, scratching its head with a sheepish grin, bright modern home office with a wooden desk and a big window, soft daylight, teal walls and warm wood tones, bokeh, vertical composition, 3D animated feature film still, cute cartoon organ mascots with big expressive eyes, glossy wet organic textures, warm volumetric rim light, shallow depth of field, rich reds and pinks",
+      "negative_prompt": "human, person, man, woman, humanoid, skeleton, skull, bones, ribs, nude, torso, muscles, creepy, zombie, grey skin, text, letters, words, watermark, logo, blurry, lowres, deformed, extra limbs, gore, blood, horror, surgery, plain studio backdrop",
+      "video_prompt": "cute cartoon heart mascot, glossy coral-red smooth rounded valentine-heart-shaped body with no tubes or vessels on top, big cartoon eyes and mouth, tiny arms and legs. the heart scratches its head and looks away sheepishly. The heart is talking, mouth moving as it speaks with expressive eyes and eyebrows. embarrassed heart mascot sitting in the office chair, scratching its head with a sheepish grin. locked-off static camera. The character stays centred and fully in frame the whole time. lively expressive character acting, natural talking mouth and eye movement, small body gestures, smooth cinematic camera movement. 3D animated feature film still, cute cartoon organ mascots with big expressive eyes, glossy wet organic textures, warm volumetric rim light, shallow depth of field, rich reds and pinks.",
+      "keyframe": "keyframes/s4_1.png",
+      "clip_seed": 884786697
+    },
+    {
+      "id": "s5",
+      "seconds": 3.33,
+      "speaker": "trainer",
+      "camera": "slow push in",
+      "image": "running shoe mascot explaining with one hand raised, standing on the wooden desk, close-up",
+      "motion": "the shoe gestures with its hand while explaining, laces swaying",
+      "narration": "Many adults sit for more than 7 hours a day.",
+      "image_prompt": "Pixar-style 3D animated film still, cinematic lighting, glossy detailed organic textures, cute cartoon running shoe mascot, bright white and teal trainer with a cartoon face on the toe, laces like a tuft of hair, tiny arms, running shoe mascot explaining with one hand raised, standing on the wooden desk, close-up, vertical composition",
+      "image_prompt_long": "Pixar-style 3D animated film still, cinematic lighting, glossy detailed organic textures, cute cartoon running shoe mascot, bright white and teal trainer with a cartoon face on the toe, laces like a tuft of hair, tiny arms, running shoe mascot explaining with one hand raised, standing on the wooden desk, close-up, bright modern home office with a wooden desk and a big window, soft daylight, teal walls and warm wood tones, bokeh, vertical composition, 3D animated feature film still, cute cartoon organ mascots with big expressive eyes, glossy wet organic textures, warm volumetric rim light, shallow depth of field, rich reds and pinks",
+      "negative_prompt": "human, person, man, woman, humanoid, skeleton, skull, bones, ribs, nude, torso, muscles, creepy, zombie, grey skin, text, letters, words, watermark, logo, blurry, lowres, deformed, extra limbs, gore, blood, horror, surgery, plain studio backdrop",
+      "video_prompt": "cute cartoon running shoe mascot, bright white and teal trainer with a cartoon face on the toe, laces like a tuft of hair, tiny arms. the shoe gestures with its hand while explaining, laces swaying. The running shoe is talking, mouth moving as it speaks with expressive eyes and eyebrows. running shoe mascot explaining with one hand raised, standing on the wooden desk, close-up. camera slowly pushes in, gentle and subtle. The character stays centred and fully in frame the whole time. lively expressive character acting, natural talking mouth and eye movement, small body gestures, smooth cinematic camera movement. 3D animated feature film still, cute cartoon organ mascots with big expressive eyes, glossy wet organic textures, warm volumetric rim light, shallow depth of field, rich reds and pinks.",
+      "keyframe": "keyframes/s5_1.png",
+      "clip_seed": 428162897
+    },
+    {
+      "id": "s6",
+      "seconds": 6.27,
+      "speaker": "trainer",
+      "camera": "slow push in",
+      "image": "serious running shoe mascot pointing upwards with a concerned frown, close-up",
+      "motion": "the shoe frowns and points as it explains, leaning forward",
+      "narration": "Long spells of sitting are thought to raise the risk of heart disease, stroke and type 2 diabetes.",
+      "image_prompt": "Pixar-style 3D animated film still, cinematic lighting, glossy detailed organic textures, cute cartoon running shoe mascot, bright white and teal trainer with a cartoon face on the toe, laces like a tuft of hair, tiny arms, serious running shoe mascot pointing upwards with a concerned frown, close-up, vertical composition",
+      "image_prompt_long": "Pixar-style 3D animated film still, cinematic lighting, glossy detailed organic textures, cute cartoon running shoe mascot, bright white and teal trainer with a cartoon face on the toe, laces like a tuft of hair, tiny arms, serious running shoe mascot pointing upwards with a concerned frown, close-up, bright modern home office with a wooden desk and a big window, soft daylight, teal walls and warm wood tones, bokeh, vertical composition, 3D animated feature film still, cute cartoon organ mascots with big expressive eyes, glossy wet organic textures, warm volumetric rim light, shallow depth of field, rich reds and pinks",
+      "negative_prompt": "human, person, man, woman, humanoid, skeleton, skull, bones, ribs, nude, torso, muscles, creepy, zombie, grey skin, text, letters, words, watermark, logo, blurry, lowres, deformed, extra limbs, gore, blood, horror, surgery, plain studio backdrop",
+      "video_prompt": "cute cartoon running shoe mascot, bright white and teal trainer with a cartoon face on the toe, laces like a tuft of hair, tiny arms. the shoe frowns and points as it explains, leaning forward. The running shoe is talking, mouth moving as it speaks with expressive eyes and eyebrows. serious running shoe mascot pointing upwards with a concerned frown, close-up. camera slowly pushes in, gentle and subtle. The character stays centred and fully in frame the whole time. lively expressive character acting, natural talking mouth and eye movement, small body gestures, smooth cinematic camera movement. 3D animated feature film still, cute cartoon organ mascots with big expressive eyes, glossy wet organic textures, warm volumetric rim light, shallow depth of field, rich reds and pinks.",
+      "keyframe": "keyframes/s6_2.png",
+      "clip_seed": 1540733469
+    },
+    {
+      "id": "s7",
+      "seconds": 3.33,
+      "speaker": "heart",
+      "camera": "static",
+      "image": "shocked heart mascot with wide eyes and open mouth gripping the armrests of the office chair",
+      "motion": "the heart jolts upright in shock, eyes widening",
+      "narration": "Heart disease?! But I go to the gym!",
+      "image_prompt": "Pixar-style 3D animated film still, cinematic lighting, glossy detailed organic textures, cute cartoon heart mascot, glossy coral-red smooth rounded valentine-heart-shaped body with no tubes or vessels on top, big cartoon eyes and mouth, tiny arms and legs, shocked heart mascot with wide eyes and open mouth gripping the armrests of the office chair, vertical composition",
+      "image_prompt_long": "Pixar-style 3D animated film still, cinematic lighting, glossy detailed organic textures, cute cartoon heart mascot, glossy coral-red smooth rounded valentine-heart-shaped body with no tubes or vessels on top, big cartoon eyes and mouth, tiny arms and legs, shocked heart mascot with wide eyes and open mouth gripping the armrests of the office chair, bright modern home office with a wooden desk and a big window, soft daylight, teal walls and warm wood tones, bokeh, vertical composition, 3D animated feature film still, cute cartoon organ mascots with big expressive eyes, glossy wet organic textures, warm volumetric rim light, shallow depth of field, rich reds and pinks",
+      "negative_prompt": "human, person, man, woman, humanoid, skeleton, skull, bones, ribs, nude, torso, muscles, creepy, zombie, grey skin, text, letters, words, watermark, logo, blurry, lowres, deformed, extra limbs, gore, blood, horror, surgery, plain studio backdrop",
+      "video_prompt": "cute cartoon heart mascot, glossy coral-red smooth rounded valentine-heart-shaped body with no tubes or vessels on top, big cartoon eyes and mouth, tiny arms and legs. the heart jolts upright in shock, eyes widening. The heart is talking, mouth moving as it speaks with expressive eyes and eyebrows. shocked heart mascot with wide eyes and open mouth gripping the armrests of the office chair. locked-off static camera. The character stays centred and fully in frame the whole time. lively expressive character acting, natural talking mouth and eye movement, small body gestures, smooth cinematic camera movement. 3D animated feature film still, cute cartoon organ mascots with big expressive eyes, glossy wet organic textures, warm volumetric rim light, shallow depth of field, rich reds and pinks.",
+      "keyframe": "keyframes/s7_2.png",
+      "clip_seed": 2066487216
+    },
+    {
+      "id": "s8",
+      "seconds": 4.33,
+      "speaker": "trainer",
+      "camera": "slow push in",
+      "image": "running shoe mascot giving a thumbs up with a kind smile, close-up",
+      "motion": "the shoe gives a thumbs up, then wags a finger gently",
+      "narration": "Great! But you can still be at risk if you sit the rest of the time.",
+      "image_prompt": "Pixar-style 3D animated film still, cinematic lighting, glossy detailed organic textures, cute cartoon running shoe mascot, bright white and teal trainer with a cartoon face on the toe, laces like a tuft of hair, tiny arms, running shoe mascot giving a thumbs up with a kind smile, close-up, vertical composition",
+      "image_prompt_long": "Pixar-style 3D animated film still, cinematic lighting, glossy detailed organic textures, cute cartoon running shoe mascot, bright white and teal trainer with a cartoon face on the toe, laces like a tuft of hair, tiny arms, running shoe mascot giving a thumbs up with a kind smile, close-up, bright modern home office with a wooden desk and a big window, soft daylight, teal walls and warm wood tones, bokeh, vertical composition, 3D animated feature film still, cute cartoon organ mascots with big expressive eyes, glossy wet organic textures, warm volumetric rim light, shallow depth of field, rich reds and pinks",
+      "negative_prompt": "human, person, man, woman, humanoid, skeleton, skull, bones, ribs, nude, torso, muscles, creepy, zombie, grey skin, text, letters, words, watermark, logo, blurry, lowres, deformed, extra limbs, gore, blood, horror, surgery, plain studio backdrop",
+      "video_prompt": "cute cartoon running shoe mascot, bright white and teal trainer with a cartoon face on the toe, laces like a tuft of hair, tiny arms. the shoe gives a thumbs up, then wags a finger gently. The running shoe is talking, mouth moving as it speaks with expressive eyes and eyebrows. running shoe mascot giving a thumbs up with a kind smile, close-up. camera slowly pushes in, gentle and subtle. The character stays centred and fully in frame the whole time. lively expressive character acting, natural talking mouth and eye movement, small body gestures, smooth cinematic camera movement. 3D animated feature film still, cute cartoon organ mascots with big expressive eyes, glossy wet organic textures, warm volumetric rim light, shallow depth of field, rich reds and pinks.",
+      "keyframe": "keyframes/s8_1.png",
+      "clip_seed": 476706517
+    },
+    {
+      "id": "s9",
+      "seconds": 4.03,
+      "speaker": "trainer",
+      "camera": "slow pull out",
+      "image": "running shoe mascot jogging on the spot beside the desk, cheerful, sunlight from the window",
+      "motion": "the shoe jogs on the spot and stretches its tiny arms up",
+      "narration": "So break up long sits. Stand, stretch, walk around.",
+      "image_prompt": "Pixar-style 3D animated film still, cinematic lighting, glossy detailed organic textures, cute cartoon running shoe mascot, bright white and teal trainer with a cartoon face on the toe, laces like a tuft of hair, tiny arms, running shoe mascot jogging on the spot beside the desk, cheerful, sunlight from the window, vertical composition",
+      "image_prompt_long": "Pixar-style 3D animated film still, cinematic lighting, glossy detailed organic textures, cute cartoon running shoe mascot, bright white and teal trainer with a cartoon face on the toe, laces like a tuft of hair, tiny arms, running shoe mascot jogging on the spot beside the desk, cheerful, sunlight from the window, bright modern home office with a wooden desk and a big window, soft daylight, teal walls and warm wood tones, bokeh, vertical composition, 3D animated feature film still, cute cartoon organ mascots with big expressive eyes, glossy wet organic textures, warm volumetric rim light, shallow depth of field, rich reds and pinks",
+      "negative_prompt": "human, person, man, woman, humanoid, skeleton, skull, bones, ribs, nude, torso, muscles, creepy, zombie, grey skin, text, letters, words, watermark, logo, blurry, lowres, deformed, extra limbs, gore, blood, horror, surgery, plain studio backdrop",
+      "video_prompt": "cute cartoon running shoe mascot, bright white and teal trainer with a cartoon face on the toe, laces like a tuft of hair, tiny arms. the shoe jogs on the spot and stretches its tiny arms up. The running shoe is talking, mouth moving as it speaks with expressive eyes and eyebrows. running shoe mascot jogging on the spot beside the desk, cheerful, sunlight from the window. camera slowly pulls back, gentle and subtle. The character stays centred and fully in frame the whole time. lively expressive character acting, natural talking mouth and eye movement, small body gestures, smooth cinematic camera movement. 3D animated feature film still, cute cartoon organ mascots with big expressive eyes, glossy wet organic textures, warm volumetric rim light, shallow depth of field, rich reds and pinks.",
+      "keyframe": "keyframes/s9_1.png",
+      "clip_seed": 1063917236
+    },
+    {
+      "id": "s10",
+      "seconds": 2.83,
+      "speaker": "heart",
+      "cast": [
+        "heart",
+        "chair"
+      ],
+      "camera": "slow pull out",
+      "image": "happy heart mascot standing up and stretching its arms beside the empty office chair mascot, which looks sad",
+      "motion": "the heart stands up and stretches happily as the chair droops",
+      "narration": "Up I get! See you later, chair.",
+      "image_prompt": "Pixar-style 3D animated film still, cinematic lighting, glossy detailed organic textures, cute cartoon heart mascot, glossy coral-red smooth rounded valentine-heart-shaped body with no tubes or vessels on top, big cartoon eyes and mouth, tiny arms and legs and cute cartoon office chair mascot, plush charcoal-grey cushioned seat and backrest with a cartoon face on the backrest, padded armrests as its arms, five-wheeled base, happy heart mascot standing up and",
+      "image_prompt_long": "Pixar-style 3D animated film still, cinematic lighting, glossy detailed organic textures, cute cartoon heart mascot, glossy coral-red smooth rounded valentine-heart-shaped body with no tubes or vessels on top, big cartoon eyes and mouth, tiny arms and legs and cute cartoon office chair mascot, plush charcoal-grey cushioned seat and backrest with a cartoon face on the backrest, padded armrests as its arms, five-wheeled base, happy heart mascot standing up and stretching its arms beside the empty office chair mascot, which looks sad, bright modern home office with a wooden desk and a big window, soft daylight, teal walls and warm wood tones, bokeh, vertical composition, 3D animated feature film still, cute cartoon organ mascots with big expressive eyes, glossy wet organic textures, warm volumetric rim light, shallow depth of field, rich reds and pinks",
+      "negative_prompt": "human, person, man, woman, humanoid, skeleton, skull, bones, ribs, nude, torso, muscles, creepy, zombie, grey skin, text, letters, words, watermark, logo, blurry, lowres, deformed, extra limbs, gore, blood, horror, surgery, plain studio backdrop",
+      "video_prompt": "cute cartoon heart mascot, glossy coral-red smooth rounded valentine-heart-shaped body with no tubes or vessels on top, big cartoon eyes and mouth, tiny arms and legs and cute cartoon office chair mascot, plush charcoal-grey cushioned seat and backrest with a cartoon face on the backrest, padded armrests as its arms, five-wheeled base. the heart stands up and stretches happily as the chair droops. The heart is talking, mouth moving as it speaks with expressive eyes and eyebrows. happy heart mascot standing up and stretching its arms beside the empty office chair mascot, which looks sad. camera slowly pulls back, gentle and subtle. The characters stay fully in frame the whole time. lively expressive character acting, natural talking mouth and eye movement, small body gestures, smooth cinematic camera movement. 3D animated feature film still, cute cartoon organ mascots with big expressive eyes, glossy wet organic textures, warm volumetric rim light, shallow depth of field, rich reds and pinks.",
+      "keyframe": "keyframes/s10_1.png",
+      "clip_seed": 1466214055
+    }
+  ],
+  "refine_report": [
+    "s1: image prompt still over 77 tokens; shorten the character or scene",
+    "s10: image prompt still over 77 tokens; shorten the character or scene"
+  ]
+}

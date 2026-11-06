@@ -1,0 +1,66 @@
+{
+  "slug": "teeth-vs-sugar",
+  "series": "body-explained",
+  "title": "What Sugar Really Does to Your Teeth – Meet the Clean-Up Crew",
+  "description": "Sugar feeds the bacteria in plaque, and they make acid that attacks your enamel. Brushing twice a day with fluoride toothpaste sends in the clean-up crew.\n\nEducational only. Not medical advice. Speak to a dentist about your own teeth.",
+  "hashtags": [
+    "#Shorts",
+    "#TeethHealth",
+    "#DentalCare",
+    "#HealthTips"
+  ],
+  "header": "PROTECT YOUR TEETH",
+  "disclaimer": "Educational only. Not medical advice.",
+  "sources": [
+    "https://www.nhs.uk/conditions/tooth-decay/"
+  ],
+  "character": "a cute pure white molar tooth cartoon character with big round eyes, tiny arms and legs",
+  "music": "auto",
+  "voice": {
+    "enabled": true,
+    "voice": "af_heart",
+    "speed": 1.0
+  },
+  "scenes": [
+    {
+      "id": "s1",
+      "seconds": 5,
+      "label": "SUGAR ARRIVES",
+      "sublabel": "Sweets and fizzy drinks",
+      "image": "worried face, looking up at colourful candies and sugar cubes falling from the sky toward it, standing on pink gums",
+      "motion": "candy and sugar cubes fall and bounce around the tooth, the tooth leans back with a worried expression",
+      "camera": "slow push in",
+      "narration": "Every time you eat sugar, something happens inside your mouth."
+    },
+    {
+      "id": "s2",
+      "seconds": 5,
+      "label": "BACTERIA MAKE ACID",
+      "sublabel": "Acid attacks your enamel",
+      "image": "small fuzzy bright green germ monsters biting the tooth, yellow bubbles on the tooth surface, the tooth grimacing",
+      "motion": "the green germ monsters nibble the tooth and puff out small yellow bubbles, the tooth winces",
+      "camera": "slow orbit",
+      "narration": "Bacteria feed on it and make acid that attacks your enamel."
+    },
+    {
+      "id": "s3",
+      "seconds": 5,
+      "label": "BRUSH TWICE A DAY",
+      "sublabel": "With fluoride toothpaste",
+      "image": "a giant blue toothbrush with thick white foam scrubbing the tooth, foam bubbles everywhere, green germs washed away",
+      "motion": "the giant toothbrush scrubs side to side, white foam bubbles rise and float, green germs slide away",
+      "camera": "static, slight handheld",
+      "narration": "Brushing twice a day with fluoride toothpaste sends in the clean-up crew."
+    },
+    {
+      "id": "s4",
+      "seconds": 5,
+      "label": "LESS SUGAR, LESS OFTEN",
+      "sublabel": "Your enamel will thank you",
+      "image": "the tooth character sparkling clean and shiny white, smiling proudly with arms raised, small sparkles around it, healthy pink gums",
+      "motion": "the tooth character bounces happily and waves, sparkles twinkle around it",
+      "camera": "slow pull out",
+      "narration": "Cut down how often you have sugar, and your teeth stay strong."
+    }
+  ]
+}

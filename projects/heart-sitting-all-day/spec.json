@@ -1,0 +1,135 @@
+{
+  "slug": "heart-sitting-all-day",
+  "series": "body-explained",
+  "format": "story",
+  "title": "Your Heart When You Sit All Day",
+  "description": "Many adults spend more than 7 hours a day sitting down. Sitting or lying down for long periods is thought to increase the risk of long-term conditions such as heart disease, stroke and type 2 diabetes, and you can hit your weekly activity target but still be at risk if you spend the rest of the time sitting. The NHS advises adults to reduce time spent sitting or lying down and to break up long periods of not moving with some activity.\n\nEducational only. Not medical advice.",
+  "hashtags": [
+    "#Shorts",
+    "#SitLess",
+    "#HeartHealth",
+    "#HealthTips"
+  ],
+  "disclaimer": "Educational only. Not medical advice.",
+  "sources": [
+    "https://www.nhs.uk/live-well/exercise/exercise-health-benefits/",
+    "https://www.nhs.uk/live-well/exercise/physical-activity-guidelines-for-adults-aged-19-to-64/"
+  ],
+  "setting": "bright modern home office with a wooden desk and a big window, soft daylight, teal walls and warm wood tones, bokeh",
+  "characters": {
+    "heart": {
+      "name": "heart",
+      "voice": "am_michael",
+      "look": "cute cartoon heart mascot, glossy coral-red smooth rounded valentine-heart-shaped body with no tubes or vessels on top, big cartoon eyes and mouth, tiny arms and legs"
+    },
+    "chair": {
+      "name": "office chair",
+      "voice": "am_fenrir",
+      "look": "cute cartoon office chair mascot, plush charcoal-grey cushioned seat and backrest with a cartoon face on the backrest, padded armrests as its arms, five-wheeled base"
+    },
+    "trainer": {
+      "name": "running shoe",
+      "voice": "af_heart",
+      "look": "cute cartoon running shoe mascot, bright white and teal trainer with a cartoon face on the toe, laces like a tuft of hair, tiny arms"
+    }
+  },
+  "music": "auto",
+  "voice": {
+    "enabled": true,
+    "speed": 1.05
+  },
+  "scenes": [
+    {
+      "id": "s1",
+      "seconds": 2,
+      "speaker": "heart",
+      "cast": ["heart", "chair"],
+      "camera": "slow push in",
+      "image": "tired slumped heart mascot sinking into the plush office chair mascot at a desk with a laptop, droopy half-closed eyes",
+      "motion": "the heart slumps lower in the chair and sighs, eyelids drooping",
+      "narration": "Nine hours at my desk. Not one break."
+    },
+    {
+      "id": "s2",
+      "seconds": 2,
+      "speaker": "chair",
+      "camera": "static",
+      "image": "smug office chair mascot with a sly grin, close-up",
+      "motion": "the chair grins and swivels slightly, its cushion puffing up invitingly",
+      "narration": "Stay seated. You're so comfy here."
+    },
+    {
+      "id": "s3",
+      "seconds": 2,
+      "speaker": "trainer",
+      "camera": "slow pull out",
+      "image": "energetic running shoe mascot hopping onto the desk with a raised eyebrow",
+      "motion": "the shoe lands with a bounce and raises an eyebrow, laces bouncing",
+      "narration": "Hey! When did you last stand up?"
+    },
+    {
+      "id": "s4",
+      "seconds": 2,
+      "speaker": "heart",
+      "camera": "static",
+      "image": "embarrassed heart mascot sitting in the office chair, scratching its head with a sheepish grin",
+      "motion": "the heart scratches its head and looks away sheepishly",
+      "narration": "Um... lunch?"
+    },
+    {
+      "id": "s5",
+      "seconds": 2,
+      "speaker": "trainer",
+      "camera": "slow push in",
+      "image": "running shoe mascot explaining with one hand raised, standing on the wooden desk, close-up",
+      "motion": "the shoe gestures with its hand while explaining, laces swaying",
+      "narration": "Many adults sit for more than 7 hours a day."
+    },
+    {
+      "id": "s6",
+      "seconds": 2,
+      "speaker": "trainer",
+      "camera": "slow push in",
+      "image": "serious running shoe mascot pointing upwards with a concerned frown, close-up",
+      "motion": "the shoe frowns and points as it explains, leaning forward",
+      "narration": "Long spells of sitting are thought to raise the risk of heart disease, stroke and type 2 diabetes."
+    },
+    {
+      "id": "s7",
+      "seconds": 2,
+      "speaker": "heart",
+      "camera": "static",
+      "image": "shocked heart mascot with wide eyes and open mouth gripping the armrests of the office chair",
+      "motion": "the heart jolts upright in shock, eyes widening",
+      "narration": "Heart disease?! But I go to the gym!"
+    },
+    {
+      "id": "s8",
+      "seconds": 2,
+      "speaker": "trainer",
+      "camera": "slow push in",
+      "image": "running shoe mascot giving a thumbs up with a kind smile, close-up",
+      "motion": "the shoe gives a thumbs up, then wags a finger gently",
+      "narration": "Great! But you can still be at risk if you sit the rest of the time."
+    },
+    {
+      "id": "s9",
+      "seconds": 2,
+      "speaker": "trainer",
+      "camera": "slow pull out",
+      "image": "running shoe mascot jogging on the spot beside the desk, cheerful, sunlight from the window",
+      "motion": "the shoe jogs on the spot and stretches its tiny arms up",
+      "narration": "So break up long sits. Stand, stretch, walk around."
+    },
+    {
+      "id": "s10",
+      "seconds": 2,
+      "speaker": "heart",
+      "cast": ["heart", "chair"],
+      "camera": "slow pull out",
+      "image": "happy heart mascot standing up and stretching its arms beside the empty office chair mascot, which looks sad",
+      "motion": "the heart stands up and stretches happily as the chair droops",
+      "narration": "Up I get! See you later, chair."
+    }
+  ]
+}
